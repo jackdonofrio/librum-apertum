@@ -5,7 +5,7 @@ Here's an example of a request and the response it gives:
 ```bash
 $ curl https://jackdonofrio.github.io/librum-apertum/kjv/John/3/16
 "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
-``
+```
 
 
 Todo:
