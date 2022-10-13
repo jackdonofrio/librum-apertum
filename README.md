@@ -3,8 +3,8 @@ The goal of this is to host a static API on GitHub pages by storing endpoints in
 
 Here's an example of a request and the response it gives:
 ```bash
-$ curl https://jackdonofrio.github.io/librum-apertum/kjv/John/3/16
-"For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+$ curl https://jackdonofrio.github.io/librum-apertum/vul/John/3/16
+Sic enim Deus dilexit mundum, ut Filium suum unigenitum daret : ut omnis qui credit in eum, non pereat, sed habeat vitam aeternam.
 ```
 
 
