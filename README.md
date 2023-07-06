@@ -3,13 +3,10 @@ The goal of this is to host a static API on GitHub pages by storing endpoints in
 
 Here's an example of a request and the response it gives:
 ```bash
-$ curl https://jackdonofrio.github.io/librum-apertum/vul/John/3/16
+$ curl https://jackdonofrio.github.io/librum-apertum/vul/Joannes/3/16
 Sic enim Deus dilexit mundum, ut Filium suum unigenitum daret : ut omnis qui credit in eum, non pereat, sed habeat vitam aeternam.
 ```
 
 
 Todo:
 - fix deuterocanonical book titles in kjv
-- add rest of deuterocanon to vulgate
-
-(Note: this was originally uploaded on my other account, pyr0m4nc3r.)
